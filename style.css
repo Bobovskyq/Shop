@@ -1,0 +1,41 @@
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+header{
+    border: 2px dotted black;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+    color: white;
+}
+
+header img{
+    margin-top: 10px;
+}
+
+header a{
+    color:white;
+    text-decoration: none;
+}
+
+nav {
+    margin: 20px;
+
+    padding: 10px;
+}
+nav a{
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: chartreuse;
+    color:white;
+    padding: 5px;
+    margin-right: 2%;
+    margin-left: 2%;
+}
+
+.products{
+    text-align: left;
+    border: 2px solid greenyellow;
+    border-radius: 15px;
+}
